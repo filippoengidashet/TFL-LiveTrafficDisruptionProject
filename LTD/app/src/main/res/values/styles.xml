@@ -1,0 +1,11 @@
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/primaryColor</item>
+        <item name="colorPrimaryDark">@color/primaryDarkColor</item>
+        <item name="android:fastScrollThumbDrawable">@drawable/fastscroll_drawable</item>
+        <item name="android:fastScrollOverlayPosition">floating</item>
+        <item name="android:fastScrollTrackDrawable">@mipmap/track_fastscroll</item>
+    </style>
+
+</resources>
